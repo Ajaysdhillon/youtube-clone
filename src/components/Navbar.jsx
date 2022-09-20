@@ -17,7 +17,8 @@ const Navbar = () => (
     }}
   >
     <Link to="/" style={{ display: "flex", alignItems: "center" }}>
-      <img src={logo} alt="logo" height={45} />
+      <img src={logo} alt="logo" height={45} width={50} marginLeft={16} />
+      <h2 style={{ color: "red" }}>U-PLAY</h2>
     </Link>
     <SearchBar />
   </Stack>
