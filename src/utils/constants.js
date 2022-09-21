@@ -13,7 +13,7 @@ import FitnessCenterIcon from "@mui/icons-material/FitnessCenter";
 import DeveloperModeIcon from "@mui/icons-material/DeveloperMode";
 import { Html, Css } from "@mui/icons-material";
 
-export const logo = "https://i.ibb.co/02v5C3D/yt-logo.png";
+export const logo = "https://i.ibb.co/Ks1VKSC/yt-logo.png";
 
 export const categories = [
   { name: "New", icon: <HomeIcon /> },
